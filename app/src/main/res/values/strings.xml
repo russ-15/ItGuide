@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="Click_to_Login">Click_to_Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Re_type_Password">Re_type_Password</string>
+    <string name="Create_Account">Create_Account</string>
+    <string name="Login">Login</string>
+    <string name="Click_to_Register">Click_to_Register</string>
+    <string name="Logout">Logout</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+</resources>

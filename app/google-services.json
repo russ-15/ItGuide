@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599102963973",
+    "project_id": "itguide-4a372",
+    "storage_bucket": "itguide-4a372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599102963973:android:cc7c630973a35754f8f76c",
+        "android_client_info": {
+          "package_name": "com.example.itguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh_L19vhDDZrbiFW6AqFgApTDgCl2-x5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
